@@ -11,5 +11,5 @@ The problems i solved during [Python for Beginners (Full Course) | #100DaysOfCod
 
 ## Authors
 
-- [@octokatherine](https://www.github.com/octokatherine)
+- [@haru-kunyo](https://github.com/haru-kunyo)
 
