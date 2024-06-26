@@ -15,4 +15,7 @@ elif n=="2":
 elif n=="3":
     print("The multiplication of number",a,"and",b,"is",a*b)
 elif n=="4":
-    print("The division of number",a,"and",b,"is",a/b)
+    if b==0:
+        print("Error: Division by zero")
+    else:
+        print("The division of number",a,"and",b,"is",a/b)
