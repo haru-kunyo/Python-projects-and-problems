@@ -9,5 +9,7 @@ The problems i solved during [Python for Beginners (Full Course) | #100DaysOfCod
 
 1. [Building a two number calculator which can perform 4 operations](https://github.com/haru-kunyo/Python-projects-and-problems/blob/files/calculator.py)
 
+## Authors
 
+- [@octokatherine](https://www.github.com/octokatherine)
 
