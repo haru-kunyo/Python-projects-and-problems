@@ -8,6 +8,7 @@ This repository deals with the different Projects and Problems i completed using
 The problems i solved during [Python for Beginners (Full Course) | #100DaysOfCode](https://youtube.com/playlist?list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg&si=LPlbqngFAWRNjnKZ) are as follows: 
 
 1. [Building a two number calculator which can perform 4 operations](https://github.com/haru-kunyo/Python-projects-and-problems/blob/files/calculator.py)
+2. [Code to Greet user based on current system time](https://github.com/haru-kunyo/Python-projects-and-problems/blob/files/goodmorningsir.py)
 
 ## Authors
 
