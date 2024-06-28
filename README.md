@@ -9,6 +9,7 @@ The problems i solved during [Python for Beginners (Full Course) | #100DaysOfCod
 
 1. [Building a two number calculator which can perform 4 operations](https://github.com/haru-kunyo/Python-projects-and-problems/blob/files/calculator.py)
 2. [Code to Greet user based on current system time](https://github.com/haru-kunyo/Python-projects-and-problems/blob/files/goodmorningsir.py)
+3. [Kaun Banega Crorepati Game](https://github.com/haru-kunyo/Python-projects-and-problems/blob/files/KBC.py)
 
 ## Authors
 
